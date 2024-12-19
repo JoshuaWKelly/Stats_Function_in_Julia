@@ -23,7 +23,7 @@ Ensure you have Julia installed on your system. You can download it from the [of
 ## Installation
 1.	Clone this repository: 
  
- ```julia
+ ```bash
 git clone https://github.com/JoshuaWKelly/Stats_Function_in_Julia.git
 cd descriptive-statistics-julia
 ```
@@ -46,7 +46,7 @@ stats = descriptive_statistics(data)
 println(stats)
 ```
 3.	The output will be a dictionary with the calculated statistics:
-```julia
+```bash
 Dict(
     "mean" => 5.454545454545454,
     "median" => 5.0,

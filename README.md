@@ -24,7 +24,7 @@ Ensure you have Julia installed on your system. You can download it from the [of
 1.	Clone this repository: 
  
  ```julia
-git clone https://github.com/your-repo-name/descriptive-statistics-julia.git
+git clone https://github.com/JoshuaWKelly/Stats_Function_in_Julia.git
 cd descriptive-statistics-julia
 ```
 2.	Open Julia and activate the environment:
